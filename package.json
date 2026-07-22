@@ -1,0 +1,30 @@
+{
+  "name": "rosa_e_sabor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ks-12345/Rosa_e_Sabor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ks-12345/Rosa_e_Sabor/issues"
+  },
+  "homepage": "https://github.com/ks-12345/Rosa_e_Sabor#readme",
+  "dependencies": {
+    "axios": "^1.18.1",
+    "bootstrap": "^5.3.8",
+    "react-bootstrap": "^2.10.10",
+    "react-icons": "^5.7.0",
+    "react-router-dom": "^7.18.1"
+  }
+}
